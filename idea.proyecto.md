@@ -15,7 +15,7 @@ Ideas similares
 
 - secop II: https://www.colombiacompra.gov.co/secop-ii
 
-2) app inventario
+2) APP INVENTARIO
 
 - Aplicacion web para la gestion de inventarios y muestra de productos para vender, la plataforma web no permitira la venta solo mostraria los productos, y en caso de querer alguno lo direccionaria a un whatsapp 
 
