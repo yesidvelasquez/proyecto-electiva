@@ -1,1 +1,7 @@
-pantalla de inicio de sesion
+LINK DE LOS MOCKUPS : https://www.canva.com/design/DAFLeuVGwbc/hcL1hjzc58fXo8iS0A7UGQ/edit
+
+1) INICIO DE SESION 
+2) MENU PRINCIPAL 
+3) CARGAR CUENTA DE COBRO 
+4) BANDEJA DE ENTRADA GESPA 
+5) ORDENADOR DEL GASTO 
