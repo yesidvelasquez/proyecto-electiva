@@ -6,14 +6,20 @@ CODIGO	11161722062
 
 
 
-1)	APP MOVIL – Para la gestión de tiempo de las personas- seria como un cronograma con avisos para que la persona no olvide las citas,
-reuniones, clases, trabajos etc.
+  1) APP GESPA 
+ 
+– aplicacion movil para la gestion de cuents de cobro en una empresa publica o privada donde los usuarios podran enviarse cuentas de cobro o informes de actividdes, firmarlas digitalmente, enviarlas entre los usuraios y diferentes tipos de roles, posterior mente un usuario que posee los mas altos permisos de la app es quien aprueba las cuentas de cobro y descarga un excel para subirlo a la app contable para su pag, para mas informacion revisar carpeta features.md 
 
 
-2)	APP MOVIL – Para la gestión de dinero, en principio permitiría solo crear bolsillos y asignarles valores y decirle si le queda dinero
-o esta pasado de lo que gana mensualmente 
+Ideas similares
 
+- secop II: https://www.colombiacompra.gov.co/secop-ii
 
-3)	Aplicación móvil para el manejo de inventario y mostrar productos a los clientes que pueden solicitar mediante telegram o WhatsApp 
-(aun no se podría hacer ventas por medio de la app)podremos almacenar los bienes que queremos vender y decirle al cliente
-cuanto queda en stock para así mismo poder hacer su pedido 
+2) app inventario
+
+- Aplicacion web para la gestion de inventarios y muestra de productos para vender, la plataforma web no permitira la venta solo mostraria los productos, y en caso de querer alguno lo direccionaria a un whatsapp 
+
+Ideas similares 
+
+- ofima : https://www.ofima.com/software-erp/?gclid=Cj0KCQjw39uYBhCLARIsAD_SzMQGSGt-5tsYcYeQNQuVtZfoSzm1pagLoTAChkiC0ftMXMkfjxwxxtwaAqYEEALw_wcB
+
