@@ -1,6 +1,8 @@
 0.0.4 - 28/08/2022
 
-►se reaizan los mocupsdel programa 
+►se reaizan los mocups del programa 
+
+► se crea carpeta diseño
 
 ►finalizamos la creacion del documento del proyecto para primer entrega:
     - preguntas 
