@@ -250,8 +250,11 @@ VIII.	DIAGRAMAS UML
 A.	DIAGRAMA DE CASO DE USO POR ROL
 
    ![diagrama de rol 1](https://user-images.githubusercontent.com/100253836/188780264-3015dffa-d46a-4588-bad9-5046abaa66f5.png)
-   ![diagrama de rol 2](https://user-images.githubusercontent.com/100253836/188782061-9e6eead1-5b96-469b-a04c-5149c94f8354.png)
+   
+ ![diagrama de rol 2](https://user-images.githubusercontent.com/100253836/188782218-89cd8aea-b3a0-4470-b990-2a49f5cc9d79.png)
+ 
 ![diagrama de rol 3](https://user-images.githubusercontent.com/100253836/188782086-2d28263b-7375-467d-b73e-2cd149fb664d.png)
+
 
 
 
