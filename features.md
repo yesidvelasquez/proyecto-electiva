@@ -9,6 +9,8 @@ Permitir que una empresa publica o privada pueda realizar el tramite de pagos y/
 B.	FUNCIONALIDAD PRINCIPAL 
 
 
+
+
 Al momento de ingresar a la empresa o entidad le asignan unas credenciales institucionales, entre estas credenciales esta un correo institucional, obtener estas credenciales sin el primer paso para acceder al programa ya que mediante el correo institucional la persona al ingresar al programa debe crear un usuario con este correo institucional, para esto el programa le pedirá:
 
 •	Nombre completo 
@@ -25,6 +27,8 @@ Al momento de ingresar a la empresa o entidad le asignan unas credenciales insti
 
 
 
+
+
 Luego  crear el usuario el programa le enviara un correo para autenticar el correo, mientras en el programa se le abre una ventana donde debe poner un código enviado a al correo, después de poner el código de seguridad en la ventana de forma correcta, el programa le muestra una ventana donde dice que el usuario se ha creado de manera correcta y lo dirige a inicio de sesión  al ingresar al programa lo dirige a una ventana diferente dependiendo el rol asignado, este rol lo asigna el operador del gasto este usuario del operador del gasto ya debe venir creado por defecto en la base de datos con todos los permisos del programa, los usuarios permitidos son:
 
 •	Contratista
@@ -34,6 +38,9 @@ Luego  crear el usuario el programa le enviara un correo para autenticar el corr
 •	Apoyo a la supervisión 
 
 •	Ordenador del gasto 
+
+
+
 
 
 el contratista solo le permitirá cargar documentos, 3 archivos en pdf como máximo donde estaría dividido como 
@@ -47,7 +54,10 @@ el contratista solo le permitirá cargar documentos, 3 archivos en pdf como máx
 
 
 
+
+
 Y le permitirá enviar este pago a un apoyo a la supervisión también asignado previamente por el ordenador del gasto, este la enviar al apoyo a la supervisión para que sea revisado, aprobado y firmado, en caso de no estar bien el pago él apoyó a la supervisión lo devolverá la contratista
+
 
 
 El de planta solo le permitirá cargar documentos, 2 archivos en pdf como máximo donde estaría dividido como 
