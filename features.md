@@ -12,10 +12,15 @@ B.	FUNCIONALIDAD PRINCIPAL
 Al momento de ingresar a la empresa o entidad le asignan unas credenciales institucionales, entre estas credenciales esta un correo institucional, obtener estas credenciales sin el primer paso para acceder al programa ya que mediante el correo institucional la persona al ingresar al programa debe crear un usuario con este correo institucional, para esto el programa le pedirá:
 
 •	Nombre completo 
+
 •	Correo institucional
+
 •	Clave
+
 •	Confirmar clave
+
 •	Cedula 
+
 •	Celular 
 
 
