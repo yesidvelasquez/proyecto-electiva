@@ -1,3 +1,22 @@
+1.0.0 - 20/11/2022
+- se corriguen errores existentes 
+- se revisa que los botones y el programa en general funcionen correctamente 
+
+0.0.7 - 15/11/2022
+- se implementa la panttalla de cargue de cuentas 
+- se implementa pantalla de envio de cuentas 
+
+
+0.0.6 - 06/11/2022
+- se implementra pantta de menu principal 
+- de corrigen errores vistos en la pantalla de inicio de sesion 
+
+0.0.5 - 01/11/2022
+
+- se crean los mockups 
+- se implementa en android studio la pantala inicio de sesion 
+
+
 0.0.4 - 28/08/2022
 
 ►se reaizan los mocups del programa 
