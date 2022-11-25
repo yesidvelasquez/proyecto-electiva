@@ -30,6 +30,7 @@ aca se muestra como se ve la bandeja de entrada, donde aparecen las cuentas de c
 
 
 
+
 5) ORDENADOR DEL GASTO 
 aca podemos observar la pantalla del menu principal del ordenador del gasto que es quien al final aprueba las cuentas de todos tanto de contratistas como de supervisores, y generar el excel de las cuentas de cobro aprovadas
 
