@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".menu_principal"
+    android:background="@drawable/menu_principal">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="68dp"
+        android:layout_height="62dp"
+        tools:layout_editor_absoluteX="43dp"
+        tools:layout_editor_absoluteY="115dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:layout_width="211dp"
+        android:layout_height="86dp"
+        android:text="GESPA"
+        android:textColor="#FFC107"
+        android:textSize="55sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.62"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.024" />
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:text="jorge yesid velasquez rivera "
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="124dp"
+        tools:layout_editor_absoluteY="115dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="mis cuentas "
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="401dp" />
+
+    <Switch
+        android:id="@+id/btndos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="cerrar sesion"
+        tools:layout_editor_absoluteX="43dp"
+        tools:layout_editor_absoluteY="666dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/bandejaentrada"
+        tools:layout_editor_absoluteX="28dp"
+        tools:layout_editor_absoluteY="252dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:tint="#00F8F3F3"
+        app:srcCompat="@drawable/miscuentas"
+        tools:layout_editor_absoluteX="42dp"
+        tools:layout_editor_absoluteY="441dp" />
+
+    <Button
+        android:id="@+id/btntres"
+        android:layout_width="82dp"
+        android:layout_height="38dp"
+        android:rotation="91"
+        android:text="agregar cuenta"
+        android:textSize="5sp"
+        tools:layout_editor_absoluteX="335dp"
+        tools:layout_editor_absoluteY="607dp" />
+
+    <Button
+        android:id="@+id/btncinco"
+        android:layout_width="82dp"
+        android:layout_height="38dp"
+        android:text="editar cuenta"
+        android:textSize="5sp"
+        tools:layout_editor_absoluteX="253dp"
+        tools:layout_editor_absoluteY="686dp" />
+
+    <Button
+        android:id="@+id/btncuatro"
+        android:layout_width="82dp"
+        android:layout_height="38dp"
+        android:rotation="46"
+        android:text="revisarcuenta"
+        android:textSize="5sp"
+        tools:layout_editor_absoluteX="277dp"
+        tools:layout_editor_absoluteY="628dp" />
+
+    <Button
+        android:id="@+id/btnsiete"
+        android:layout_width="244dp"
+        android:layout_height="38dp"
+        android:backgroundTint="#00FFFFFF"
+        android:text="bandeja de entrada"
+        android:textColor="#050505"
+        app:iconTint="#FFFFFF"
+        app:rippleColor="#FFFFFF"
+        tools:layout_editor_absoluteX="83dp"
+        tools:layout_editor_absoluteY="214dp" />
+
+
+</android.support.constraint.ConstraintLayout>

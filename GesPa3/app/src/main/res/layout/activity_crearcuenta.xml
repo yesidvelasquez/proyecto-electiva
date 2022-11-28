@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".crearcuenta"
+    android:background="@drawable/menu_principal">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="68dp"
+        android:layout_height="62dp"
+        tools:layout_editor_absoluteX="43dp"
+        tools:layout_editor_absoluteY="115dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:layout_width="211dp"
+        android:layout_height="86dp"
+        android:text="GESPA"
+        android:textColor="#FFC107"
+        android:textSize="55sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.62"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.024" />
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:text="jorge yesid velasquez rivera "
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="124dp"
+        tools:layout_editor_absoluteY="115dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="275dp"
+        android:layout_height="383dp"
+        app:srcCompat="@drawable/cargarcuenta"
+        tools:layout_editor_absoluteX="81dp"
+        tools:layout_editor_absoluteY="245dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="cuenta de cobro"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="132dp"
+        tools:layout_editor_absoluteY="218dp" />
+
+    <Button
+        android:id="@+id/btnseis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="cargar cuenat de cobro "
+        tools:layout_editor_absoluteX="88dp"
+        tools:layout_editor_absoluteY="639dp" />
+
+
+</android.support.constraint.ConstraintLayout>
